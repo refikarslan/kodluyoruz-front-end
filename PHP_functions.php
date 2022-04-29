@@ -10,7 +10,7 @@
 sayi(1);
 */
 
-/*
+
 $categories =[
     [
       'id' => 1,
@@ -88,16 +88,6 @@ function isim() {
     return $isim;
 }
 echo deneme();
-*/
- //YILDIZ SORU ÖRNEĞİ
-for ($i = 1;$i<=15;$i++)
-{
-    for($a=1; $a<=$i; $a++)
-    {
-        echo "*";
-    }
-    echo "<br>";
-}
 
 
 
