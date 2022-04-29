@@ -77,7 +77,7 @@ function categoryList(array $categories,  $parent = 0)
     return $html;
 }
 echo categoryList($categories);
-*/
+
 
 
 
